@@ -3,7 +3,7 @@ layoutdir = "layouts"
 publishdir = "public"
 builddrafts = true 
 canonifyurls = true
-baseurl = "https://github.com/shawnohare/hugo-tufte"
+baseurl = ""
 theme = "hugo-tufte"
 title = "Hugo-tufte Theme Example Site"
 
